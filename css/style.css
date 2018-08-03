@@ -1,0 +1,27 @@
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #183782;
+    font-weight: 600;
+}
+
+img {
+    border-radius: 10px;
+}
+
+.text-muted {
+    font-weight: 700
+    color: #BCBBBB;
+}
+
+.text-thin {
+    font-weight: 800
+}
+
+.title-super {
+    font-size: 60px;
+
+}
+
+.title-logo {
+    margin-top: 20px;
+}
